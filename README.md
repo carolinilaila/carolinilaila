@@ -2,7 +2,7 @@
 
 Eu sou a Carol, técnica em eletroeletrônica e estudante de Engenharia da Computação! Aspirante a frontend e curiosa em aprender 💪
 
-- 🔭 Estou iniciando meu trabalho em HTML, CSS e JavaScript,
+- 🔭 Estou iniciando meu trabalho em HTML, CSS, JavaScript e Python,
 - 🌱 Além de estar estudando sobre banco de dados e versionamento.
 - 💬 Pergunte-me sobre tecnologia, raspberry pi, teoria musical e renda fixa 👸
 
