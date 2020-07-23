@@ -6,4 +6,7 @@ Eu sou a Carol, técnica em eletroeletrônica e estudante de Engenharia da Compu
 - 🌱 Além de estar estudando sobre banco de dados e versionamento.
 - 💬 Pergunte-me sobre tecnologia, raspberry pi, rfid, teoria musical e renda fixa 👸
 
+#### Me chama 😎
+[![Linkedin Badge](https://img.shields.io/badge/-CarolPimenta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolini-l-pimenta/)](https://www.linkedin.com/in/carolini-l-pimenta/)
+
 "Não procure por algo que você ame, ame o que você faz!" 🙏
